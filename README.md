@@ -1,2 +1,2 @@
 # AirBNB
-AirBNB Home page in HTML and CSS
+Recreation of AirBNB Home page in HTML and CSS
